@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
-printf("Hello World"); //两个基本显示函数的调用
+printf("Hello World\n"); //两个基本显示函数的调用
 puts("Hello World");
 return 0;
 }
